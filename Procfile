@@ -1,2 +1,1 @@
-worker: python battlebot1.py
-worker: python battlebot2.py
+worker: python tweet_out.py
